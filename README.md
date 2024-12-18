@@ -26,7 +26,8 @@ curl -X 'POST' \
         "battPercent": 30.47618, \
         "konstantaPembagi": 1, \
         "ina219_avail": true \
-      }}, \
+      }, \
+}, \
   ] \
 }'
 
